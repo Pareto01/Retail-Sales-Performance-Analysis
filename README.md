@@ -82,6 +82,11 @@ The number of transactions for the higher individual price per unit (300 and 500
 
 Electronics has the highest total price at ₦62.2k, indicating that products in this category are either more expensive or more numerous compared to others. Clothing follows closely with a total price of ₦61.2k, suggesting moderate pricing or a large number of products in the category. Beauty, with the lowest total price of ₦56.5k, may have fewer products or lower-priced items, presenting an opportunity to expand or adjust pricing to improve its performance.
 
+### Dashboard
+![](https://github.com/Pareto01/Retail-Sales-Performance-Analysis/blob/main/Retail%205.PNG)
+
+The interactivity of the Dashboard can be accessed [here](https://app.powerbi.com/groups/me/reports/44bee1d0-d17b-424c-8f38-fb15b7f2909e/ReportSection?bookmarkGuid=4681cfb9-ca25-456e-a35d-9bde9a8a0dba&bookmarkUsage=1&ctid=075328d9-198a-4299-9deb-7bea9fb39c97&portalSessionId=a0121f60-1bbf-4cf3-af48-81f0acf7689c&fromEntryPoint=export)
+
 
 
 
