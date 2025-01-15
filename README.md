@@ -24,7 +24,8 @@ Power BI is used for this project. It is a readily available visualization softw
 The dataset was provided in Excel format; hence the extraction was straightforward. In Data Ribbon, simply click on “Excel Workbook”, then Open>Browse and navigate to the location where the dataset is stored, then click Browse and find your dataset.
 
 ## Cleaning and Analyzing Procedures
-The dataset was systematically reviewed for accuracy and completeness in Power query editor. While there were no missing values. To expand the dataset’s analytical capabilities, new columns, such as ‘Age Group, Month, and Season’ were generated using DAX functions. 
+The dataset was systematically reviewed for accuracy and completeness in Power query editor. While there were no missing values. To expand the dataset’s analytical capabilities, new columns, such as ‘Age Group, Month, and Season’ were generated using DAX functions.
+
 ![Age Group](https://github.com/Pareto01/Retail-Sales-Performance-Analysis/blob/main/Dax%201.PNG)
 ![Season](https://github.com/Pareto01/Retail-Sales-Performance-Analysis/blob/main/Dax%202.PNG)
 
@@ -45,6 +46,7 @@ Feedback and Continuous Improvement
 ## Analysis Summary
 ### How does customer' age and gender influence their purchasing behavior?
 ![](https://github.com/Pareto01/Retail-Sales-Performance-Analysis/blob/main/Retail%201.PNG)
+
 The customer age was categorized into 5 segments having the age-group 18-24, 25-34, 35-44, 45-54, 55, and above. It was observed that Sales revenue differs across age groups. The 45-54 age group stands out as the highest contributor to sales revenue among the specified age ranges, with revenue reaching $97.2k, and the lowest in the 18-24 age group ($90.2k).
 The peak in the 45-54 age group suggests that individuals within this demographic may exhibit higher spending power or engage in more substantial purchases compared to other age groups.
 The notable peak in sales revenue within the middle age groups (25-34, 35-44, and 45-54) indicates that customers in these age ranges contribute significantly to overall sales.
