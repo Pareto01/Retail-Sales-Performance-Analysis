@@ -87,6 +87,20 @@ Electronics has the highest total price at ₦62.2k, indicating that products in
 
 The interactivity of the Dashboard can be accessed [here](https://app.powerbi.com/groups/me/reports/44bee1d0-d17b-424c-8f38-fb15b7f2909e/ReportSection?bookmarkGuid=4681cfb9-ca25-456e-a35d-9bde9a8a0dba&bookmarkUsage=1&ctid=075328d9-198a-4299-9deb-7bea9fb39c97&portalSessionId=a0121f60-1bbf-4cf3-af48-81f0acf7689c&fromEntryPoint=export)
 
+## Conclusion and Recommendation
+•	It is important to consistently keep track of sales trends over time so that strategies can be adjusted to meet the changing market conditions. Patterns have the potential to shift, and by staying well-informed, one can make swift and flexible decisions.
+•	The knowledge gained from observing seasonal trends can be used to improve our inventory management and make more accurate demand forecasts. By doing so, we can prevent situations where we run out of stock during times of high demand, and also reduce the amount of excess inventory we have during slower periods.
+
+•	The unchanging numbers of transactions in various price categories indicate that customers might make both smaller, more frequent purchases for cheaper items and occasional purchases for pricier ones. This could imply possibilities for combined purchases or package offers.
+•	Promotions targeting items priced at 50 per unit can yield a higher response, therefore marketing messages and promotions based on purchasing behaviors can be tailored to enhance the effectiveness of promotional efforts.
+
+•	By identifying cost-effective manufacturing processes, businesses can explore opportunities to optimize pricing strategies and negotiate better supplier deals, ultimately improving profit margins.
+
+## Deployment to Power BI Service
+This Report is deployed to Power BI service from my Microsoft developer account and publish to the web for everyone to have access to it [here](https://app.powerbi.com/groups/me/reports/44bee1d0-d17b-424c-8f38-fb15b7f2909e/ReportSection?bookmarkGuid=4681cfb9-ca25-456e-a35d-9bde9a8a0dba&bookmarkUsage=1&ctid=075328d9-198a-4299-9deb-7bea9fb39c97&portalSessionId=a0121f60-1bbf-4cf3-af48-81f0acf7689c&fromEntryPoint=export).
+
+
+
 
 
 
