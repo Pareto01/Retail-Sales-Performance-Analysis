@@ -25,6 +25,6 @@ The dataset was provided in Excel format; hence the extraction was straightforwa
 
 ## Cleaning and Analyzing Procedures
 The dataset was systematically reviewed for accuracy and completeness in Power query editor. While there were no missing values. To expand the dataset’s analytical capabilities, new columns, such as ‘Age Group, Month, and Season’ were generated using DAX functions. 
-![Logo]()
+![Age Group](Dax 1.PNG)
 
 
